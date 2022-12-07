@@ -27,12 +27,12 @@ The Mean Squared error is:
 The R2Score for train and test set are:
 
 - Ridge
- - R2score for Train set: 0.9262
- - R2score for Test set: 0.8832
+  - R2score for Train set: 0.9262
+  - R2score for Test set: 0.8832
 
 - Lasso
- - R2score for Train set: 0.9254
- - R2score for Test set: 0.8820
+  - R2score for Train set: 0.9254
+  - R2score for Test set: 0.8820
 
 
 <b>NOTE</b>
