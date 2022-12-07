@@ -56,7 +56,7 @@ The R2Score for train and test set are:
 - Numpy
 - Matplotlib
 - Seaborn
-- SKlearn
+- Sklearn
 
 ## Acknowledgements
 Give credit here.
