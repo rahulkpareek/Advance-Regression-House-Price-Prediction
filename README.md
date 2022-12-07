@@ -27,26 +27,28 @@ The Mean Squared error is:
 The R2Score for train and test set are:
 
 - Ridge
-  - R2score for Train set: 0.9262
-  - R2score for Test set: 0.8832
+ - R2score for Train set: 0.9262
+ - R2score for Test set: 0.8832
 
 - Lasso
-  - R2score for Train set: 0.9254
-  - R2score for Test set: 0.8820
+ - R2score for Train set: 0.9254
+ - R2score for Test set: 0.8820
 
 
-<b>NOTE</b>
-The most significant features that can be suggested to the Surprise Housing company are as follows.
+<b>NOTE:</b>
+- The final model choosen is Lasso
 
-- SaleCondition (either Partial or Normal)
-- Neighborhood (specially Crawford)
-- Foundation (If it is Poured Concrete)
-- Exterior1st (If the exterior covering of the house has a brick face)
-- OverallQual
-- MSZoning (If in Floating Village Residential Zone)
-- OverallCond
-- Exterior2nd (If there is a second material used i.e.. Wood siding)
-- BsmtExposure (If it has good exposure)
+- The most significant features that can be suggested to the Surprise Housing company are as follows.
+
+    - SaleCondition (either Partial or Normal)
+    - Neighborhood (specially Crawford)
+    - Foundation (If it is Poured Concrete)
+    - Exterior1st (If the exterior covering of the house has a brick face)
+    - OverallQual
+    - MSZoning (If in Floating Village Residential Zone)
+    - OverallCond
+    - Exterior2nd (If there is a second material used i.e.. Wood siding)
+    - BsmtExposure (If it has good exposure)
 
 
 ## Technologies Used
